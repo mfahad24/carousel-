@@ -1,0 +1,62 @@
+* {
+font-family: 'Lato', sans-serif;
+}
+
+.box {
+  border: 0px solid black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.testimonials {
+  width:375px;
+  margin: 20px;
+
+}
+
+.tophalf {
+  background-color: #d9e6fc;
+  overflow: hidden;
+}
+
+img {
+  border-radius: 50%;
+  padding: 20px;
+  width: 125px;
+}
+
+.stars {
+  color: orange;
+  font-size: 30px;
+  margin-top: -15px;
+}
+
+.left {
+  /* width: 100px; */
+  /* display: block;  */
+  float: left;
+}
+
+.right {
+  /* width: 100px; */
+  /* display: block; */
+  float: right;
+  /* line-height: 100%;  */
+}
+
+/* .bottomhalf {
+  clear: both;
+} */
+
+.content {
+  padding: 15px;
+  color: darkblue;
+  text-align: center; 
+}
+
+.info {
+  padding-right: 50px;
+}
+
+.jobtitle {
+  font-style: italic;
+}
